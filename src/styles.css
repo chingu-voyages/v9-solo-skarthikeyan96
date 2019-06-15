@@ -12,3 +12,22 @@
   /* color: rgba(255, 255, 255, 0.65); */
   color: #fff;
 }
+#main-poster {
+  /* display: block; */
+  /* width: 100%; */
+  position: relative;
+  text-align: center;
+  color: white;
+}
+#movie-details {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  color: #fff;
+  opacity: 1;
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+img {
+  width: 100%;
+}
