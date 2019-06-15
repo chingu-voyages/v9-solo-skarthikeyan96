@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+* {
+  font-family: "Montserrat", sans-serif;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.ant-menu-dark .ant-menu-item,
+.ant-menu-dark .ant-menu-item-group-title,
+.ant-menu-dark .ant-menu-item > a {
+  /* color: rgba(255, 255, 255, 0.65); */
+  color: #fff;
+}
